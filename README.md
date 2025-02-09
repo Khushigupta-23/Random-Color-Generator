@@ -56,3 +56,6 @@ Feel free to reach out to me for any inquiries or collaboration opportunities:
 ### Email: khushi75gupta8811@gmail.com
 
 ### Linkedin: https://www.linkedin.com/in/khushigupta-fullstack/
+
+## Live Demo
+https://khushigupta-23.github.io/Random-Color-Generator/
